@@ -1,4 +1,4 @@
-## Olá! Bem-vindo, visitante! 🖐️
+## Olá! Bem-vindo! 🖐️
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yuritofanoo/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-tofano-7b02a4177/)
