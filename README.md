@@ -7,7 +7,15 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oYuriTM&layout=compact&hide_border=true&title_color=8A2BE2&text_color=8A2BE2&bg_color=0d1117" />
 </div>
 
-<div align="center"> 
+## My Skills:
+
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)&nbsp;
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+
+## Contacts:
+
+<div> 
 <a href="https://www.instagram.com/yuritofanoo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href="https://www.linkedin.com/in/yuri-tofano-7b02a4177/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
